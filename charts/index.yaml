@@ -11,7 +11,7 @@ entries:
               url: https://github.com/ollama/ollama/releases/tag/v0.4.0
     apiVersion: v2
     appVersion: 0.4.0
-    created: "2024-11-14T15:48:18.3302454+01:00"
+    created: "2024-11-14T16:04:45.9477384+01:00"
     description: Get up and running with large language models locally.
     digest: c65b53d26f1195b33cb6713fb2e24dd98abd88f25f07b1e363cd32f913776573
     home: https://ollama.ai/
@@ -43,7 +43,7 @@ entries:
               url: https://github.com/ollama/ollama/releases/tag/v0.4.0
     apiVersion: v2
     appVersion: 0.4.0
-    created: "2024-11-14T15:48:18.3391456+01:00"
+    created: "2024-11-14T16:04:45.9573814+01:00"
     description: Get up and running with large language models locally.
     digest: c65b53d26f1195b33cb6713fb2e24dd98abd88f25f07b1e363cd32f913776573
     home: https://ollama.ai/
@@ -70,7 +70,7 @@ entries:
       licenses: MIT
     apiVersion: v2
     appVersion: 0.3.35
-    created: "2024-11-14T15:48:18.3340435+01:00"
+    created: "2024-11-14T16:04:45.951571+01:00"
     dependencies:
     - condition: ollama.enabled
       import-values:
@@ -112,7 +112,7 @@ entries:
       licenses: MIT
     apiVersion: v2
     appVersion: 0.3.35
-    created: "2024-11-14T15:48:18.3424027+01:00"
+    created: "2024-11-14T16:04:45.9605366+01:00"
     dependencies:
     - condition: ollama.enabled
       import-values:
@@ -155,9 +155,9 @@ entries:
       licenses: MIT
     apiVersion: v2
     appVersion: alpha
-    created: "2024-11-14T15:48:18.3346985+01:00"
+    created: "2024-11-14T16:04:45.9522455+01:00"
     description: 'Pipelines: UI-Agnostic OpenAI API Plugin Framework'
-    digest: 4e9938b436d413acaeba6fb3f572354acf477480db2c53e72267028c23eeb292
+    digest: dff87d3139f98f5c76906188fdc5d2c055680be7fb17352be89203ce9924cf49
     home: https://github.com/open-webui/pipelines
     icon: https://github.com/open-webui/pipelines/raw/main/header.png
     keywords:
@@ -175,9 +175,9 @@ entries:
       licenses: MIT
     apiVersion: v2
     appVersion: alpha
-    created: "2024-11-14T15:48:18.3430235+01:00"
+    created: "2024-11-14T16:04:45.961158+01:00"
     description: 'Pipelines: UI-Agnostic OpenAI API Plugin Framework'
-    digest: 4e9938b436d413acaeba6fb3f572354acf477480db2c53e72267028c23eeb292
+    digest: dff87d3139f98f5c76906188fdc5d2c055680be7fb17352be89203ce9924cf49
     home: https://github.com/open-webui/pipelines
     icon: https://github.com/open-webui/pipelines/raw/main/header.png
     keywords:
@@ -194,7 +194,7 @@ entries:
   tika:
   - apiVersion: v2
     appVersion: 2.9.0.0
-    created: "2024-11-14T15:48:18.3377208+01:00"
+    created: "2024-11-14T16:04:45.9544589+01:00"
     description: The official Helm chart to deploy Apache Tika on Kubernetes
     digest: ca9fa418bcb83afc1b340d90563bedc71a83a6434a2c7c528ddaba284a55c427
     home: https://tika.apache.org
@@ -226,7 +226,7 @@ entries:
     version: 2.9.0
   - apiVersion: v2
     appVersion: 2.9.0.0
-    created: "2024-11-14T15:48:18.3456291+01:00"
+    created: "2024-11-14T16:04:45.9641732+01:00"
     description: The official Helm chart to deploy Apache Tika on Kubernetes
     digest: ca9fa418bcb83afc1b340d90563bedc71a83a6434a2c7c528ddaba284a55c427
     home: https://tika.apache.org
@@ -256,4 +256,4 @@ entries:
     urls:
     - https://mbtraore.github.io/prd-open-webui/charts/tika-2.9.0.tgz
     version: 2.9.0
-generated: "2024-11-14T15:48:18.3278486+01:00"
+generated: "2024-11-14T16:04:45.9448752+01:00"
